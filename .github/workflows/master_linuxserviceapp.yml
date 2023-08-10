@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'LinuxServiceApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7602CDD3F8354B6D89D951AB5776CD41 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6422FBFAA8AC4D71B42E622DA66C4551 }}
           package: .
